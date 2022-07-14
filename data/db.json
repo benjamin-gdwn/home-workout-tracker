@@ -1,0 +1,22 @@
+{
+    "exercise" : [
+        { 
+            "title": "bla bla", 
+            "time": 20, 
+            "calories": 21, 
+            "id": 1
+        },
+        { 
+            "title": "bla bla", 
+            "time": 10, 
+            "calories": 11, 
+            "id": 2
+        },
+        { 
+            "title": "bla bla", 
+            "time": 40, 
+            "calories": 36, 
+            "id": 3
+        }
+    ]
+}
